@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>markdown_use</title>
+      <link href="/2023/03/02/markdown-use/"/>
+      <url>/2023/03/02/markdown-use/</url>
+      
+        <content type="html"><![CDATA[<h1 id="数据分析"><a href="#数据分析" class="headerlink" title="数据分析"></a>数据分析</h1><h2 id="markdown"><a href="#markdown" class="headerlink" title="markdown"></a>markdown</h2><blockquote><p>引用   </p></blockquote><h2 id="有序列表-1-12-23-3无序列表：-aa-bb-cc方块列表：-吃饭-x-睡觉-睡觉代码快：c-数学公式：-latex公式-表格-c-bb-aa-—-—-—-a-c-p-脚注-a-2-2-w文章分段："><a href="#有序列表-1-12-23-3无序列表：-aa-bb-cc方块列表：-吃饭-x-睡觉-睡觉代码快：c-数学公式：-latex公式-表格-c-bb-aa-—-—-—-a-c-p-脚注-a-2-2-w文章分段：" class="headerlink" title="有序列表:1. 12. 23. 3无序列表：- aa- bb- cc方块列表：- [] 吃饭- [x] 睡觉- [] 睡觉代码快：c      数学公式：$$latex公式$$表格:| c   |  bb |aa||:—-|—-:|:—:|| a   |   c |p|脚注:a[^2][^2]:w文章分段：    "></a>有序列表:<br>1. 1<br>2. 2<br>3. 3<br><br>无序列表：<br>- aa<br>- bb<br>- cc<br><br>方块列表：<br>- [] 吃饭<br>- [x] 睡觉<br>- [] 睡觉<br><br>代码快：<br><code>c      </code><br><br>数学公式：<br>$$<br>latex公式<br>$$<br><br>表格:<br><br>| c   |  bb |aa|<br>|:—-|—-:|:—:|<br>| a   |   c |p|<br><br><br>脚注:<br>a[^2]<br>[^2]:w<br><br><br>文章分段：    </h2><p><a href="www.baidu.com%22%E4%B8%80%E4%B8%AA%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%22">百度</a></p><p><img src="https://raw.githubusercontent.com/zhoujiawei2/photo/main/blob/main/photoIn/YsJrPMlL6Ez2HguY.png"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> toolsUsing </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git_use</title>
+      <link href="/2023/03/02/git-use/"/>
+      <url>/2023/03/02/git-use/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>git commit<br>git fetch<br>git pull<br>git push<br>git merge<br>git rebase<br>git checkout<br>git rebase -i<br>git branch<br>git branch -f<br>git cherry-pick<br>git resort<br>git reset<br>git describe<br>git tag w</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> toolsUsing </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/03/01/hello-world/"/>
       <url>/2023/03/01/hello-world/</url>
